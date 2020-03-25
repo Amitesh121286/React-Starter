@@ -17,7 +17,7 @@ export default class Text extends React.Component {
     return (
       <div className="centerC">
 
-        <p>Testing the page!!!!!</p>
+        <p>Dev branch Testing the page!!!!!</p>
         <p>{this.greeting} {myname}</p>
 
         <CompA/>
